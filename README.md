@@ -7,7 +7,7 @@ You can reach me at **david.brookes@berkeley.edu**
 
 [1] **D. H. Brookes**, H. Park, and J. Listgarten. Conditioning by adaptive sampling for robust design. Accepted at *ICML*, 2019.
 
-[2] **D. H. Brookes** and J. Listgarten. Design by adaptive sampling. *NeurIPS Worshop on Machine Learning for Molecules and Materials*, 2018.
+[2] **D. H. Brookes** and J. Listgarten. Design by adaptive sampling. *NeurIPS Workshop on Machine Learning for Molecules and Materials*, 2018.
 
 [3] E. Jurrus, D. Engel, K. Star, K. Monson, J. Brandi, L. E. Felberg, **D. H. Brookes**, L. Wilson, J. Chen, K. Liles, M. Chun, P. Li, T. Dolinsky, R. Konecny, D. Koes, J. E. Nielsen, T. Head-Gordon, W. Geng, R. Krasny, M. Gunner, G.-W. Wei, M. J. Holst, J. A. McCammon, N. A. Baker. Improvements to the APBS biomolecular solvation software suite. *Protein Sci*. 27 (1), pp. 112-128, 2018.
 

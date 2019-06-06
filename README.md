@@ -1,7 +1,7 @@
 
 I am a Ph.D. student in the Biophysics Graduate Group at the University of California, Berkeley and a member of the Berkeley Artifical Intelligence Research Lab (BAIR). I am advised by EECS Professor Jennifer Listgarten. My work focuses on developing probabilistic modeling strategies for designing biological sequences. 
 
-This summer, I am working as an AI Resident at X, the Moonshot Factory.
+This summer, I am working as an AI Resident at Google X.
 
 You can reach me at **david.brookes@berkeley.edu**
 

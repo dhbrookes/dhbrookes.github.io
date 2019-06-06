@@ -9,7 +9,7 @@ You can reach me at **david.brookes@berkeley.edu**
 
 [1] **D. H. Brookes**, H. Park, and J. Listgarten. Conditioning by adaptive sampling for robust design. *Proceedings of ICML*, 2019.
 
-*Selected for a 20 minute oral presentation (< 5% of submissions)*
+-*Selected for a 20 minute oral presentation (< 5% of submissions)*
 
 [2] **D. H. Brookes** and J. Listgarten. Design by adaptive sampling. *NeurIPS Workshop on Machine Learning for Molecules and Materials*, 2018.
 

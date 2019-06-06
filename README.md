@@ -1,15 +1,13 @@
 
 I am a Ph.D. student in the Biophysics Graduate Group at the University of California, Berkeley and a member of the Berkeley Artifical Intelligence Research Lab (BAIR). I am advised by EECS Professor Jennifer Listgarten. My work focuses on developing probabilistic modeling strategies for designing biological sequences. 
 
-This summer, I am wortking as an AI resident at Google X, the Moonshot Factory.
+This summer, I am working as an AI resident at X, the Moonshot Factory.
 
 You can reach me at **david.brookes@berkeley.edu**
 
 ## Publications
 
-[1] **D. H. Brookes**, H. Park, and J. Listgarten. Conditioning by adaptive sampling for robust design. *Proceedings of ICML*, 2019.
-
--*Selected for a 20 minute oral presentation (< 5% of submissions)*
+[1] **D. H. Brookes**, H. Park, and J. Listgarten. Conditioning by adaptive sampling for robust design. *Proceedings of ICML*, 2019. **Selected for a 20 minute oral presentation (< 5% of submissions)**
 
 [2] **D. H. Brookes** and J. Listgarten. Design by adaptive sampling. *NeurIPS Workshop on Machine Learning for Molecules and Materials*, 2018.
 

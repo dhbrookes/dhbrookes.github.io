@@ -1,5 +1,5 @@
 
-I am a Ph.D. student in the Biophysics Graduate Group at the University of California, Berkeley and a member of the Berkeley Artifical Intelligence Research Lab (BAIR). I am advised by EECS Professor Jennifer Listgarten. I am broadly interested in machine learning applications to biology, with a particular focus on developing tools for protein engineering. 
+I am a Ph.D. student in the Biophysics Graduate Group at the University of California, Berkeley and a member of the Berkeley Artifical Intelligence Research Lab (BAIR). I am advised by EECS Professor Jennifer Listgarten. I am broadly interested in machine learning applications to biology, with a particular focus on developing tools for protein engineering.
 
 In the summer of 2019 I worked as an AI resident at Google X.
 

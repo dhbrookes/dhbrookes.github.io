@@ -5,6 +5,8 @@ In the summer of 2019 I worked as an AI resident at Google X.
 
 You can reach me at **david.brookes@berkeley.edu**
 
+For more information, please see my CV <a href="dhbrookes.github.io/David_Brookes_CV.pdf" target="_blank">here</a>
+
 ## Publications
 
 [1] **D. H. Brookes**, A. Busia, C. Fannjiang, K. Murphy, and J. Listgarten. A view of Estimation of Distribution Algorithms through the lens of Expectation Maximization. Accepted at *The Genetic and Evolutionary Computation Conference*, 2020.

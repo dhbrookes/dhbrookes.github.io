@@ -5,7 +5,7 @@ In the summer of 2019 I worked as an AI resident at Google X.
 
 You can reach me at **david.brookes@berkeley.edu**
 
-For more information, please see my <a href="dhbrookes.github.io/David_Brookes_CV_2.pdf" target="_blank">CV</a>
+For more information, please see my <a href="dhbrookes.github.io/David_Brookes_CV_.pdf" target="_blank">CV</a>
 
 ## Publications
 

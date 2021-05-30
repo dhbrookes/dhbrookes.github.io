@@ -11,7 +11,7 @@ For more information, please see my <a href="dhbrookes.github.io/David_Brookes_C
 
 [1] **D. H. Brookes**, A. Aghazadeh, and J. Listgarten. On the sparsity of fitness functions and implications for learning. *bioRxiv*, 2021.
 
-[2] A. Aghazadeh, H. Nisonoff, O. Ocal, **D. H. Brookes**, Y. Huang, O. O. Koyluoglu, J. Listgarten, and \mbox{K. Ramchandran}. Sparse Epistatic Regularization of Deep Neural Networks for Inferring Fitness Functions. *bioRxiv*, 2021.
+[2] A. Aghazadeh, H. Nisonoff, O. Ocal, **D. H. Brookes**, Y. Huang, O. O. Koyluoglu, J. Listgarten, and K. Ramchandran. Sparse Epistatic Regularization of Deep Neural Networks for Inferring Fitness Functions. *bioRxiv*, 2021.
 
 [3] **D. H. Brookes**, A. Busia, C. Fannjiang, K. Murphy, and J. Listgarten. A view of Estimation of Distribution Algorithms through the lens of Expectation Maximization. Accepted at *The Genetic and Evolutionary Computation Conference*, 2020.
 

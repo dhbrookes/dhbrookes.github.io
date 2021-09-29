@@ -1,17 +1,19 @@
 
-I am a Ph.D. student in the Biophysics Graduate Group at the University of California, Berkeley and a member of the Berkeley Artifical Intelligence Research Lab (BAIR). I am advised by EECS Professor Jennifer Listgarten. I am broadly interested in machine learning applications to biology, with a particular focus on developing tools for protein engineering.
+As of August 2021, I am a ML Scientist at Dyno Therapeutics. Before that, I recieved a Ph.D. in the Biophysics Graduate Group at the University of California, Berkeley, where I was a member of the Berkeley Artifical Intelligence Research Lab (BAIR) advised by EECS Professor Jennifer Listgarten. I am broadly interested in machine learning applications to biology, with a particular focus on developing tools for protein engineering.
 
 In the summer of 2019 I worked as an AI resident at Google X.
 
-You can reach me at **david.brookes@berkeley.edu**
+You can reach me at **dhbrookes@gmail.com*
 
+<!---
 For more information, please see my <a href="dhbrookes.github.io/David_Brookes_CV.pdf" target="_blank">CV</a>
+-->
 
 ## Publications
 
 [1] **D. H. Brookes**, A. Aghazadeh, and J. Listgarten. On the sparsity of fitness functions and implications for learning. *bioRxiv*, 2021.
 
-[2] A. Aghazadeh, H. Nisonoff, O. Ocal, **D. H. Brookes**, Y. Huang, O. O. Koyluoglu, J. Listgarten, and K. Ramchandran. Sparse Epistatic Regularization of Deep Neural Networks for Inferring Fitness Functions. *bioRxiv*, 2021.
+[2] A. Aghazadeh, H. Nisonoff, O. Ocal, **D. H. Brookes**, Y. Huang, O. O. Koyluoglu, J. Listgarten, and K. Ramchandran. Epistatic Net allows the sparse spectral regularization of deep neural networks for inferring fitness functions. *Nat Commun* **12**, 5225 (2021).
 
 [3] **D. H. Brookes**, A. Busia, C. Fannjiang, K. Murphy, and J. Listgarten. A view of Estimation of Distribution Algorithms through the lens of Expectation Maximization. Accepted at *The Genetic and Evolutionary Computation Conference*, 2020.
 

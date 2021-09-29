@@ -3,7 +3,7 @@ As of August 2021, I am a ML Scientist at Dyno Therapeutics. Before that, I reci
 
 In the summer of 2019 I worked as an AI resident at Google X.
 
-You can reach me at **dhbrookes@gmail.com*
+You can reach me at **dhbrookes@gmail.com**.
 
 <!---
 For more information, please see my <a href="dhbrookes.github.io/David_Brookes_CV.pdf" target="_blank">CV</a>

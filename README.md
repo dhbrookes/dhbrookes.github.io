@@ -15,7 +15,7 @@ For more information, please see my <a href="dhbrookes.github.io/David_Brookes_C
 
 [2] A. Aghazadeh, H. Nisonoff, O. Ocal, **D. H. Brookes**, Y. Huang, O. O. Koyluoglu, J. Listgarten, and K. Ramchandran. Epistatic Net allows the sparse spectral regularization of deep neural networks for inferring fitness functions. *Nat Commun* **12**, 5225 (2021).
 
-[3] **D. H. Brookes**, A. Busia, C. Fannjiang, K. Murphy, and J. Listgarten. A view of Estimation of Distribution Algorithms through the lens of Expectation Maximization. Accepted at *The Genetic and Evolutionary Computation Conference*, 2020.
+[3] **D. H. Brookes**, A. Busia, C. Fannjiang, K. Murphy, and J. Listgarten. A view of Estimation of Distribution Algorithms through the lens of Expectation Maximization. *The Genetic and Evolutionary Computation Conference*, 2020.
 
 [4] **D. H. Brookes**, H. Park, and J. Listgarten. Conditioning by adaptive sampling for robust design. *Proceedings of ICML*, 2019. **Selected for a 20 minute oral presentation (< 5% of submissions)**
 

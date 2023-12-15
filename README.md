@@ -11,11 +11,13 @@ For more information, please see my <a href="dhbrookes.github.io/David_Brookes_C
 
 ## Publications
 
+[1] F. Damani*, **D. H. Brookes***, T. Sternlieb, C. Webster, S. Malina, R. Jajoo, K. Lin, S. Sinai. Beyond the training set: an intuitive method for detecting distribution shift in model-based optimization. *arXiv* (2023). (\* equal contributions)
+
 [1] **D. H. Brookes**, J. Otwinowski, and S. Sinai. Contrastive losses as generalized models of global epistasis. *arXiv* (2023).
 
-[2] **D. H. Brookes**, A. Aghazadeh, and J. Listgarten. On the sparsity of fitness functions and implications for learning. *Proceedings of the National Academy of Sciences* **119**(1), e2109649118 (2022).
+[2] D. Zhu\*, **D. H. Brookes\***, A. Busia*, A. Carneiro, C. Fannjiang, G. Popova, D. Shin, EF Chang, T. J. Nowakowski, J Listgarten, D. V. Schaffer. Optimal trade-off control in machine learning-based library design, with application to adeno-associated virus (AAV) for gene therapy. *Accepted* (2023). (\*equal contributions)
 
-[3] D. Zhu\*, **D. H. Brookes\***, A. Busia, A. Carneiro, C. Fannjiang, G. Popova, D. Shin, EF Chang, T. J. Nowakowski, J Listgarten, D. V. Schaffer. Machine learning-based library design improves packaging and diversity of adeno-associated virus (AAV) libraries. *biorXiv* (2021). (\*equal contributions)
+[3] **D. H. Brookes**, A. Aghazadeh, and J. Listgarten. On the sparsity of fitness functions and implications for learning. *Proceedings of the National Academy of Sciences* **119**(1), e2109649118 (2022).
 
 [4] A. Aghazadeh, H. Nisonoff, O. Ocal, **D. H. Brookes**, Y. Huang, O. O. Koyluoglu, J. Listgarten, and K. Ramchandran. Epistatic Net allows the sparse spectral regularization of deep neural networks for inferring fitness functions. *Nat. Commun.* **12**, 5225 (2021).
 

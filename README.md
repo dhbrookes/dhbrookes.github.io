@@ -15,7 +15,7 @@ For more information, please see my <a href="dhbrookes.github.io/David_Brookes_C
 
 [2] D. Zhu\*, **D. H. Brookes\***, A. Busia*, A. Carneiro, C. Fannjiang, G. Popova, D. Shin, EF Chang, T. J. Nowakowski, J Listgarten, D. V. Schaffer. Optimal trade-off control in machine learning-based library design, with application to adeno-associated virus (AAV) for gene therapy. *Sci. Adv.* **10**, eadj3786 (2024). (\*equal contributions)
 
-[3] F. Damani*, **D. H. Brookes***, T. Sternlieb, C. Webster, S. Malina, R. Jajoo, K. Lin, S. Sinai. Beyond the training set: an intuitive method for detecting distribution shift in model-based optimization. *arXiv* (2023).
+[3] F. Damani, **D. H. Brookes**, T. Sternlieb, C. Webster, S. Malina, R. Jajoo, K. Lin, S. Sinai. Beyond the training set: an intuitive method for detecting distribution shift in model-based optimization. *Workshop on Machine Learning in Computational Biology* (2023).
 
 [4] **D. H. Brookes**, A. Aghazadeh, and J. Listgarten. On the sparsity of fitness functions and implications for learning. *Proceedings of the National Academy of Sciences* **119**(1), e2109649118 (2022).
 

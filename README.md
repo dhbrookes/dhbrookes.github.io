@@ -11,7 +11,7 @@ For more information, please see my <a href="dhbrookes.github.io/David_Brookes_C
 
 ## Publications
 
-[1] **D. H. Brookes**, J. Otwinowski, and S. Sinai. Contrastive losses as generalized models of global epistasis. *Accepted at NeurIPS* (2024).
+[1] **D. H. Brookes**, J. Otwinowski, and S. Sinai. Contrastive losses as generalized models of global epistasis. *Advances in Neural Information Processing Systems* (2024).
 
 [2] D. Zhu\*, **D. H. Brookes\***, A. Busia*, A. Carneiro, C. Fannjiang, G. Popova, D. Shin, EF Chang, T. J. Nowakowski, J Listgarten, D. V. Schaffer. Optimal trade-off control in machine learning-based library design, with application to adeno-associated virus (AAV) for gene therapy. *Sci. Adv.* **10**, eadj3786 (2024). (\*equal contributions)
 
@@ -23,7 +23,7 @@ For more information, please see my <a href="dhbrookes.github.io/David_Brookes_C
 
 [6] **D. H. Brookes**, A. Busia, C. Fannjiang, K. Murphy, and J. Listgarten. A view of Estimation of Distribution Algorithms through the lens of Expectation Maximization. *The Genetic and Evolutionary Computation Conference* (2020).
 
-[7] **D. H. Brookes**, H. Park, and J. Listgarten. Conditioning by adaptive sampling for robust design. *Proceedings of ICML* (2019). **Selected for a 20 minute oral presentation (< 5% of submissions)**
+[7] **D. H. Brookes**, H. Park, and J. Listgarten. Conditioning by adaptive sampling for robust design. *Proceedings of ICML* (2019). *Selected for oral presentation (< 5% of submissions)*
 
 [8] **D. H. Brookes** and J. Listgarten. Design by adaptive sampling. *NeurIPS Workshop on Machine Learning for Molecules and Materials* (2018).
 
